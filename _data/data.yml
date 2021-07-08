@@ -1,0 +1,142 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
+
+  # Profile information
+  name: Antarika Ghosh
+  tagline: Social Science Student
+  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+  # Sidebar links
+  email: antarikaghosh28@gmail.com
+  phone: 9073866839
+  linkedin: antarika-ghosh-38aa88203
+  xing:
+  github: antarika28
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  twitter:
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+
+  languages:
+    - idiom: English
+      level: Professional
+
+    - idiom: Hindi
+      level: Intermediate
+
+    - idiom: Bengali
+      level: Intermediate
+
+  interests:
+    - item: Reading
+
+      link:
+
+    - item: Poetry
+      link:
+
+    - item: Music
+      link:
+
+    - item: Running
+      link:
+
+education:
+  - degree: B.A in Sociology
+    university: Lady Brabourne college,University of Calcutta
+    time: 2018 - Present
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
+experiences:
+  - role: Volunteer
+    time: 2018-2020
+    company: Kirteey NGO, Kolkata
+    details: |
+      Kirteey is an NGO based in Sodepur which strives to meet the educational and other essential needs 
+      of underprivileged children. My role as a volunteer involved organising and participating in activities for 
+      the children, for example,a new year picnic as well as carrying out drives to collect clothes and food commodities for them.
+
+  - role: Volunteer
+    time: 2019-2020
+    company: NSS(National Service Scheme)
+    details: |
+      As part of the NSS cadre, I participated in two projects, one involving the collection and
+      distribution of clothes in Park Circus slum areas and the other with a campus 
+      cleaning and hygiene awareness day.
+
+  - role: Public Relations
+    time: 2020-2021
+    company: Anubhooti NGO,Kolkata
+    details: |
+      Anubhooti is a student run NGO which grew as a part of an initiative 
+      by my batchmates, my part in it started with small contributions to the Durgasahay project 2019. As
+      we grew, my role expanded to be a part of the PR team and the first successful project that was carried out with me in 
+      that role was Durgasahay: Annapurna’r Adhyay 2020. My role involved making campaign posters and social media promotions 
+      to attract donors to our projects as well as reaching out to potential collaborators.
+
+projects:
+  title: Projects
+  intro: >
+    You can list your side projects or open source libraries in this
+    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  assignments:
+    - title: DURGASAHAY ‘19
+      link: "#hook"
+      tagline: "Contributed to the project aimed at providing the joy of new clothes to underprivileged children during the festive month of Durga Puja."
+
+    - title: FIGHT AGAINST CANCER 2020
+      link: "#"
+      tagline: "Involved in promotional activities for the project concerning visiting children at a cancer hospital, spending time with them, and showering them with Christmas presents"
+
+    - title: DURGASAHAY’ 20
+      link: "#"
+      tagline: "Carried out volunteering and promotional work for the successful implementation of a donation drive as part of the Annapurna Adhyay to provide food essentials to the homeless living on the streets"
+
+
+    - title: SAFE GREEN STAY CLEAN 2019
+      link: "#"
+      tagline: "Participated in the 6kms march organised by the hon’ CM Mamata Banerjee to raise awareness on environmental issues."
+
+    - title: COVID RELIEF BELT 2021
+      link: "#"
+      tagline: "As part of the effort of several organizations to fight back misinformation regarding COVID-19, I was involved in helping create a strong database of reliable essential resources like vacant hospital beds, food delivery outlets, oxygen cylinders, etc. My role involved connecting people in urgent need with the right verified resources to save time and provide moral support."
+
+skills:
+  title: Skills &amp; Proficiency
+
+  toolset:
+    - name: Public speaking
+      level: 75%
+
+    - name: Communication
+      level: 90%
+
+    - name: Creative writing
+      level: 85%
+
+    - name: Teaching
+      level: 90%
+
+    - name: Time management
+      level: 95%
+
+    - name: Conflict resolution
+      level: 90%
+
+footer: >
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

@@ -9,7 +9,7 @@ sidebar:
   # Profile information
   name: Antarika Ghosh
   tagline: Social Science Student
-  avatar: antarika.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: antarika.jpeg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
        
 
   # Sidebar links
@@ -92,9 +92,8 @@ experiences:
 projects:
   title: Projects
   intro: >
-    You can list your side projects or open source libraries in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+   Through out my college years I have contributed to
+   various projects, some of them are listed belo1w.
   assignments:
     - title: DURGASAHAY ‘19
       link: "#hook"
@@ -102,11 +101,11 @@ projects:
 
     - title: FIGHT AGAINST CANCER 2020
       link: "#"
-      tagline: "Involved in promotional activities for the project concerning visiting children at a cancer hospital, spending time with them, and showering them with Christmas presents"
+      tagline: "Involved in promotional activities for the project concerning visiting children at a cancer hospital, spending time with them, and showering them with Christmas presents."
 
     - title: DURGASAHAY’ 20
       link: "#"
-      tagline: "Carried out volunteering and promotional work for the successful implementation of a donation drive as part of the Annapurna Adhyay to provide food essentials to the homeless living on the streets"
+      tagline: "Carried out volunteering and promotional work for the successful implementation of a donation drive as part of the Annapurna Adhyay to provide food essentials to the homeless living on the streets."
 
 
     - title: SAFE GREEN STAY CLEAN 2019
